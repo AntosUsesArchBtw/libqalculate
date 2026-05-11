@@ -53,3 +53,61 @@ msgstr "Żelazo"
 
 msgid "Gold"
 msgstr "Złoto"
+# --- TYPY LICZB I ZMIENNYCH ---
+msgid "positive"
+msgstr "dodatnia"
+
+msgid "non-positive"
+msgstr "niedodatnia"
+
+msgid "negative"
+msgstr "ujemna"
+
+msgid "non-negative"
+msgstr "nieujemna"
+
+msgid "non-zero"
+msgstr "niezerowa"
+
+msgid "integer"
+msgstr "całkowita"
+
+msgid "rational"
+msgstr "wymierna"
+
+msgid "real"
+msgstr "rzeczywista"
+
+msgid "complex"
+msgstr "zespolona"
+
+msgid "unknown"
+msgstr "nieznana"
+
+msgid "matrix"
+msgstr "macierz"
+
+msgid "vector"
+msgstr "wektor"
+
+# --- CZAS I KALENDARZE ---
+msgid "Calendar"
+msgstr "Kalendarz"
+
+msgid "Day"
+msgstr "Dzień"
+
+msgid "Month"
+msgstr "Miesiąc"
+
+msgid "Year"
+msgstr "Rok"
+
+msgid "today"
+msgstr "dzisiaj"
+
+msgid "tomorrow"
+msgstr "jutro"
+
+msgid "yesterday"
+msgstr "wczoraj"
