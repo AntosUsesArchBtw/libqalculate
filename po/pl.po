@@ -111,3 +111,62 @@ msgstr "jutro"
 
 msgid "yesterday"
 msgstr "wczoraj"
+# --- TRYGONOMETRIA I FUNKCJE ZAAWANSOWANE ---
+msgid "Arc sine"
+msgstr "Arcus sinus"
+
+msgid "Arc cosine"
+msgstr "Arcus cosinus"
+
+msgid "Arc tangent"
+msgstr "Arcus tangens"
+
+msgid "Hyperbolic sine"
+msgstr "Sinus hiperboliczny"
+
+msgid "Hyperbolic cosine"
+msgstr "Cosinus hiperboliczny"
+
+msgid "Hyperbolic tangent"
+msgstr "Tangens hiperboliczny"
+
+# --- LOGIKA I BŁĘDY SILNIKA ---
+msgid "true"
+msgstr "prawda"
+
+msgid "false"
+msgstr "fałsz"
+
+msgid "Division by zero"
+msgstr "Dzielenie przez zero"
+
+msgid "Invalid argument"
+msgstr "Nieprawidłowy argument"
+
+msgid "Error(s) in unit expression."
+msgstr "Błąd (błędy) w wyrażeniu jednostki."
+
+msgid "Warning:"
+msgstr "Ostrzeżenie:"
+
+msgid "Error:"
+msgstr "Błąd:"
+
+# --- FIZYKA I CHEMIA (FINAŁ DLA BIO-CHEM) ---
+msgid "pascal"
+msgstr "paskal"
+
+msgid "atmosphere"
+msgstr "atmosfera"
+
+msgid "bar"
+msgstr "bar"
+
+msgid "molarity"
+msgstr "molarność"
+
+msgid "concentration"
+msgstr "stężenie"
+
+msgid "magnetic field"
+msgstr "pole magnetyczne"
