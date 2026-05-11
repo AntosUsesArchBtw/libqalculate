@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libqalculate\n"
+"Report-Msgid-Bugs-To: https://github.com/Qalculate/libqalculate/issues\n"
+"POT-Creation-Date: 2026-03-26 15:00+0100\n"
+"PO-Revision-Date: 2026-05-11 11:20+0200\n"
+"Last-Translator: Antoni Obrzut <antoni.obrzut@proton.me#: libqalculate/Function.cc:227
+msgid "argument"
+msgstr "argument"
+
+#: src/qalc.cc:2914
+msgid "Example:"
+msgstr "Przykład:"
+
+#: src/qalc.cc:2923
+msgid "Arguments"
+msgstr "Argumenty"
+
+#: src/qalc.cc:2975
+msgid "Properties"
+msgstr "Właściwości"
+
+#: src/qalc.cc:3163
+msgid "number"
+msgstr "liczba"
+
+#: src/qalc.cc:3152
+msgid "non-zero"
+msgstr "niezerowa"
+
+#: src/qalc.cc:3158
+msgid "integer"
+msgstr "liczba całkowita"
+
+#: src/qalc.cc:3161
+msgid "real"
+msgstr "liczba rzeczywista"
+
+#: src/qalc.cc:3162
+msgid "complex"
+msgstr "liczba zespolona">\n"
+"Language-Team: Polish\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
