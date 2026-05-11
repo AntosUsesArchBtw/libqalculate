@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: libqalculate\n"
 "Report-Msgid-Bugs-To: https://github.com/Qalculate/libqalculate/issues\n"
 "POT-Creation-Date: 2026-03-26 15:00+0100\n"
-"PO-Revision-Date: 2026-05-11 11:35+0200\n"
+"PO-Revision-Date: 2026-05-11 11:55+0200\n"
 "Last-Translator: Antoni Obrzut <antoni.obrzut@proton.me>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -12,74 +12,44 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
-#: libqalculate/Function.cc:227
-msgid "argument"
-msgstr "argument"
+# --- ZAKŁADKA 4: FUNKCJE (MATEMATYKA) ---
+msgid "Integrate"
+msgstr "Całkuj"
 
-#: src/qalc.cc:2914
-msgid "Example:"
-msgstr "Przykład:"
+msgid "Differentiate"
+msgstr "Różniczkuj"
 
-#: src/qalc.cc:2923
-msgid "Arguments"
-msgstr "Argumenty"
+msgid "Mean"
+msgstr "Średnia"
 
-#: src/qalc.cc:2975
-msgid "Properties"
-msgstr "Właściwości"
+msgid "Standard deviation"
+msgstr "Odchylenie standardowe"
 
-#: src/qalc.cc:3163
-msgid "number"
-msgstr "liczba"
+# --- ZAKŁADKA 5: JEDNOSTKI (FIZYKA/CHEMIA) ---
+msgid "joule"
+msgstr "dżul"
 
-#: src/qalc.cc:3152
-msgid "non-zero"
-msgstr "niezerowa"
+msgid "calorie"
+msgstr "kaloria"
 
-#: src/qalc.cc:3158
-msgid "integer"
-msgstr "liczba całkowita"
+msgid "molar mass"
+msgstr "masa molowa"
 
-#: src/qalc.cc:3161
-msgid "real"
-msgstr "liczba rzeczywista"
+# --- ZAKŁADKA 6: ZMIENNE (PIERWIASTKI) ---
+msgid "Hydrogen"
+msgstr "Wodór"
 
-#: src/qalc.cc:3162
-msgid "complex"
-msgstr "liczba zespolona"
+msgid "Oxygen"
+msgstr "Tlen"
 
-#: libqalculate/Function.cc:200
-msgid "Natural logarithm"
-msgstr "Logarytm naturalny"
+msgid "Carbon"
+msgstr "Węgiel"
 
-#: libqalculate/Function.cc:205
-msgid "Common logarithm (base 10)"
-msgstr "Logarytm dziesiętny (podstawa 10)"
+msgid "Nitrogen"
+msgstr "Azot"
 
-#: libqalculate/Unit.cc:115
-msgid "meter"
-msgstr "metr"
+msgid "Iron"
+msgstr "Żelazo"
 
-#: libqalculate/Unit.cc:116
-msgid "meters"
-msgstr "metry"
-
-#: libqalculate/Unit.cc:150
-msgid "gram"
-msgstr "gram"
-
-#: libqalculate/Unit.cc:151
-msgid "grams"
-msgstr "gramy"
-
-#: libqalculate/Variable.cc:55
-msgid "Planck's constant"
-msgstr "Stała Plancka"
-
-#: libqalculate/Variable.cc:60
-msgid "Speed of light in vacuum"
-msgstr "Prędkość światła w próżni"
-
-#: libqalculate/Variable.cc:65
-msgid "Avogadro's constant"
-msgstr "Stała Avogadra"
+msgid "Gold"
+msgstr "Złoto"
